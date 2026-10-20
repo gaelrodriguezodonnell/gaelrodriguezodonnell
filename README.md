@@ -19,4 +19,4 @@ Python (pandas, NumPy, matplotlib) · SQL · statistics and regression modeling 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/grodriguez-odonnell/)
+gerodri@unc.edu · [LinkedIn](https://www.linkedin.com/in/grodriguez-odonnell/)
